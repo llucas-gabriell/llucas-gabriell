@@ -57,8 +57,17 @@ I’m deeply **focused on learning, improving my code with every project, and cr
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=llucas-gabriell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucas-gabriell&layout=compact&theme=tokyonight" height="180em" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=llucas-gabriell&theme=tokyonight" height="180em" /> </p>
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 ---
 
