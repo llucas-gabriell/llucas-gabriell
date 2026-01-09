@@ -55,22 +55,6 @@ I’m deeply **focused on learning, improving my code with every project, and cr
 
 ---
 
-## 📊 GitHub Stats
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-
----
-
 ## 🚀 Philosophy
 
 > _“The impossible is just something that hasn’t been learned yet.”_
